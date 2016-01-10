@@ -6,3 +6,4 @@ add some feature texts
 add more feature.
 buyf
 hi
+buyingfeiNB
