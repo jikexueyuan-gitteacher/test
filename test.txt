@@ -3,4 +3,5 @@ add some local texts
 add some remote texts
 add some texts on master
 add some feature texts
-add more feature.
+add more feature
+made some changes 2019/06/20
